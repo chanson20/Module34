@@ -1,7 +1,7 @@
 # Module34
-BSM Engineering Euler Problem 5 + Test Driven Development \
+BSM Engineering Euler Problem 5 + Test Driven Development 
 
-#This program is meant to solve Euler problem #5 and also test the functions to make sure they are working properly \
+#This program is meant to solve Euler problem #5 and also test the functions to make sure they are working properly 
 
 #make sure all modules are in the same directory when you use them \
 #mult4code.py is just the equations for the answer \
@@ -11,4 +11,4 @@ BSM Engineering Euler Problem 5 + Test Driven Development \
 #unless you changed something so drastically that the program will keep running forever and never find a solution) \
 #In check just switch around < and > for example and you will receive: \
 #Check Failed \
-#Expected output True, received output error \
+#Expected output True, received output error 
